@@ -1,4 +1,4 @@
-# Life Expectancy: Data_Analysis and Modeling
+# Life Expectancy: Data Analysis and Modeling
 
 In this project, we built a machine learning model to predict the average life expectancy of a country based on data collected from the World Health Organization, and we analyzed the correlation between alcohol consumption and life expectancy.
 
